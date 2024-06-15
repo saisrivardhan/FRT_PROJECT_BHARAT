@@ -1,12 +1,13 @@
-✨ Glory Luxe
+![image](https://github.com/saisrivardhan/FRT_PROJECT_BHARAT/assets/169836926/fee9cf0f-cd59-4443-ad4d-ae6b96195c42)✨ Glory Luxe
   ✨
 
-This is a web based application developed for health related telugu based website in india
+This is a web based application developed for health related spa based website in india
 
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based Health spa application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -(https://delightful-moss-0dbadd100.5.azurestaticapps.net/)
+**Project video**-
 
 
 ## Features and Functionalities 😃
@@ -20,7 +21,8 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
+ 📸![image](https://github.com/saisrivardhan/FRT_PROJECT_BHARAT/assets/169836926/78dff18d-fa53-4ed6-8611-e6894ad4aeb2)
+
 
 
 
@@ -30,13 +32,15 @@ This is a web based application developed for health related telugu based websit
 
 
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+![image](https://github.com/saisrivardhan/FRT_PROJECT_BHARAT/assets/169836926/46a99cca-87ab-4cd0-90ad-3440ec49e07e)
 
 
-### Privacy policy -
+
+### Services -
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+![image](https://github.com/saisrivardhan/FRT_PROJECT_BHARAT/assets/169836926/83a00cd7-6437-4d01-9848-cd3ef5d1b0e3)
+
 
 
 

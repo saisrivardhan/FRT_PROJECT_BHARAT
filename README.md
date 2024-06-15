@@ -5,13 +5,13 @@ This is a web based application developed for health related spa based website i
 ### This web based Health spa application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -(https://delightful-moss-0dbadd100.5.azurestaticapps.net/)
+**Project Link** -(https://delightful-moss-0dbadd100.5.azurestaticapps.net/).
 
 **Project video**-
 
 ## Azure technologies used for project😃
--Static web aps
--Health bot
+-Static web apps.
+-Health bot.
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.

@@ -1,4 +1,4 @@
-###BHARAT SPA
+## BHARAT SPA
 
 This is a web based application developed for health related spa based website in india
 
@@ -6,9 +6,12 @@ This is a web based application developed for health related spa based website i
 
 
 **Project Link** -(https://delightful-moss-0dbadd100.5.azurestaticapps.net/)
+
 **Project video**-
 
-
+## Azure technologies used for project😃
+-Static web aps
+-Health bot
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.

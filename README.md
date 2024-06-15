@@ -1,5 +1,4 @@
-![image](https://github.com/saisrivardhan/FRT_PROJECT_BHARAT/assets/169836926/fee9cf0f-cd59-4443-ad4d-ae6b96195c42)✨ Glory Luxe
-  ✨
+###BHARAT SPA
 
 This is a web based application developed for health related spa based website in india
 

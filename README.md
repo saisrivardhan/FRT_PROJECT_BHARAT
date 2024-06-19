@@ -45,6 +45,8 @@ This is a web based application developed for health related spa based website i
 
 
 
+BHARAT BOT(AI HEALTH BOT)
+![image](https://github.com/saisrivardhan/FRT_PROJECT_BHARAT/assets/169836926/43446d33-41b7-403b-9b69-633944642903)
 
 ## Tech Stack 💻
 
